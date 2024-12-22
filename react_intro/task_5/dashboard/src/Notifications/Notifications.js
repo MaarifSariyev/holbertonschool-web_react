@@ -1,4 +1,3 @@
-
 import React from 'react'
 import close_icon from '../assets/close-icon.png'
 import { getLatestNotification } from '../utils/utils'
